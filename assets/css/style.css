@@ -88,24 +88,6 @@ section {
     position: relative;
 }
 
-.hero-text {
-    text-align: right;
-    display: inline-block;
-    max-width: 500px;
-    margin-right: 100px;
-}
-
-.hero-header {
-    color: #fce138;
-    font-style: italic;
-    font-size: 36px;
-    padding-left: 200px;
-}
-
-.hero-text p {
-    color: #fff;
-}
-
 .hero-form {
     background-color: #fce138;
     color: #024e76;
